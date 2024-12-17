@@ -1,0 +1,60 @@
+--- templates.json.state/stock.json
++++ templates.json
+@@ -24,6 +24,57 @@
+       ]
+     },
+     {
++      "name": "Daily Journal",
++      "filename": "Daily Journal",
++      "iconCode": "\ue9db",
++      "categories": [
++        "Life/organize"
++      ]
++    },
++    {
++      "name": "Wardley Map",
++      "filename": "P Wardley Map",
++      "iconCode": "\ue9f8",
++      "categories": [
++        "Life/organize",
++        "Creative"
++      ]
++    },
++    {
++      "name": "Wardley Map",
++      "filename": "LS Wardley Map",
++      "iconCode": "\ue9f8",
++      "landscape": true,
++      "categories": [
++        "Life/organize",
++        "Creative"
++      ]
++    },
++    {
++      "name": "Mobile Mockups",
++      "filename": "Mobile Mockups",
++      "iconCode": "\ue9d4",
++      "categories": [
++        "Creative"
++      ]
++    },
++    {
++      "name": "TODO List",
++      "filename": "TODO List",
++      "iconCode": "\ue98f",
++      "categories": [
++        "Life/organize"
++      ]
++    },
++    {
++      "name": "Meeting Notes",
++      "filename": "Meeting Notes",
++      "iconCode": "\ue991",
++      "categories": [
++        "Life/organize"
++      ]
++    },
++    {
+       "name": "Checklist double",
+       "filename": "LS Checklist double",
+       "iconCode": "\ue9aa",
